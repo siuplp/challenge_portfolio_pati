@@ -30,6 +30,12 @@
 <h5>//*[@id="__next"]/form/div/div[2]/div/div
 <h5>//body[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]
 <h5>//div[contains(text(),'English')]
+<h5>//*[@id="menu-"]/div[3]/ul/li[1]
+<h5>//body[1]/div[2]/div[3]/ul[1]/li[1]
+<h5>//body/div[@id='menu-']/div[3]/ul[1]/li[1]
+<h5>//*[@id="menu-"]/div[3]/ul/li[2]
+<h5>//body/div[@id='menu-']/div[3]/ul[1]/li[2]
+<h5>//body[1]/div[2]/div[3]/ul[1]/li[2]
   
 <h3>sing_in_xpath
 <h5>//*[@id="__next"]/form/div/div[2]/button/span[1]
